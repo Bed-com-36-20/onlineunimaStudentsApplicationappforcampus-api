@@ -1,0 +1,25 @@
+{
+  "name": "onlineunimastudentsapplicationappforcampus-api",
+  "version": "0.0.1",
+  "description": "aip for applying accomodation offcampus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "RESTFULL",
+    "API",
+    "NODE",
+    "MYSQL",
+    "ORM"
+  ],
+  "author": "edenchafumbw",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
